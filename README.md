@@ -1,4 +1,4 @@
-#Trailblazer.NET
+# Trailblazer.NET
 This project contains code for the Trailblazer.NET library. This library contains 
 an opinionated set of components that I like to use when working on DDD projects. 
 
